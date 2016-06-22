@@ -1,0 +1,96 @@
+/* --- FONTS ---
+font-family: 'Open Sans', sans-serif;
+font-family: 'Merriweather', serif; --- */
+/* --- COLORS ---
+Orange : #f05f40 --- */
+
+/* --- affectation des fonts --- */
+
+.list-group-item{
+	background-color: black;
+	
+}
+.lat{
+    color: white;
+	background-color: black;
+}
+
+header{
+	/*background-color: black;*/
+	margin: 50px;
+}
+.container{
+	width: 1350px;
+	height: 800px;
+}
+.block-black{
+	width: 1030px;
+	height: 50px;
+	 background-color: #000;
+}
+.col-lg-2 {
+	background-color: black;
+	width: 200px;
+	height: 1000px;
+}
+.photo{
+    width: 340px;
+    height: 360px;
+}
+
+/*iframe{
+	margin-bottom:24px;
+	margin-left: 100px;
+	margin-top: 24px;
+}*/
+
+.lignegrise {
+	background-color:gray; 
+	height:1px;
+	border: none;
+	}
+.lignenoire{
+	background-color:black; 
+	height:5px;
+	border: none;
+}
+section{
+	height: 343px;
+	background-color: black;
+}
+
+
+footer{
+background-color: black;
+height: 50px;
+
+}
+
+
+
+.col-md-3 {
+padding:0!important;
+}
+.col-md-5{
+	padding-left: 70px;
+}
+h2{
+	padding:30px;
+}
+.col-md-5 p{
+	padding: 20px;
+}
+
+.btn{
+	background-color: green;
+}
+icone{
+	color:white;
+}
+li a:hover{
+	color:green;
+}
+/*.img-auto{
+	width: 320px;
+	height: 180px;
+}*/
