@@ -1,0 +1,171 @@
+/* --- FONTS ---
+font-family: 'Open Sans', sans-serif;
+font-family: 'Merriweather', serif; --- */
+/* --- COLORS ---
+Orange : #f05f40 --- */
+
+/* --- affectation des fonts --- */
+*{
+	font-family: "Lato"
+}
+.list-group-item{
+	background-color: black;
+	
+}
+
+.lat, footer{
+	background-color: black;
+	width: 1250px;
+	float: left;
+}
+
+.lat li a, .navbar-brand, h5, h4, h6, .list-group a, .icone, p{
+	color:white!important;
+	font-size: 11px;
+
+}
+h4, .navbar-brand{
+	font-size: 17px;
+}
+
+.lat ul li:hover, .list-group a:hover{
+	background-color:green;
+}
+
+.list-group-item .active{
+	background-color: green;
+}
+header{
+	background-color: black;
+	margin: 50px;
+    margin-bottom: 0px;
+}
+.container{
+	width: 1350px;
+	height: 1000px;
+}
+
+.col-lg-2 {
+	background-color: black;
+	width: 205px;
+	height: 950px;
+}
+.col-lg-10{
+	background-color: white;
+}
+section .col-lg-10{
+	background-color: black;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.col-lg-10{
+	padding: 0 0 0 0;
+}
+a{
+	color:green;
+}
+
+/*iframe{
+	margin-bottom:24px;
+	
+	margin-top: 24px;
+}*/
+
+.lignegrise {
+	background-color:gray; 
+	height:1px;
+	border: none;
+	}
+.lignenoire{
+	background-color:black; 
+	height:5px;
+	border: none;
+}
+.photo{
+	 width: 340px;
+    height: 360px;
+	background-color: black;
+}
+h6:hover, h4:hover, h5:hover{
+	text-decoration: none;
+	color: red;
+}
+
+
+footer{
+background-color: black;
+height: 50px;
+
+}
+
+
+
+.col-md-3 {
+padding:0!important;
+}
+.col-md-4{
+	margin: 60px;
+	margin-left: 112px;
+	
+	
+	
+}
+/*.col-md-4{
+	padding-left: 100px;
+}*/
+.col-md-6{
+	padding-left:90px;
+
+	
+}
+.col-md-6 p{
+	color:black!important;
+	padding: 20px;
+}
+.col-md-4 h4, h5, p{
+color:black!important;
+}
+p{
+	font-size: 15px;
+}
+/*h2{
+	padding:30px;
+}*/
+
+.btn{
+	background-color: green;
+	/*padding: 10px;*/
+}
+.fa-lg{
+	color:white!important;
+	padding: 15px;
+}
+.drew{
+	color:white!important;
+}
+
+
+
+.twenty{
+	color:white!important;
+}
+h3{
+	font-size: 30px;
+}
+.col-md-6 p{
+	font-size: 17px;
+}
+.fleche{
+    color:black!important;
+}
+
+/* ohmiguel */
+.grey{
+	color:grey!important;
+}
+
+
+.hovereffect:hover img {
+  opacity: 0.7;
+ 
+}
